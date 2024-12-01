@@ -3,7 +3,7 @@ import "./About.css"
 const About = () => {
     return(
         <div className="Container_About">
-        <footer>©2024 por PlayTheGame. Creada con React + Vite</footer>
+        <footer><p> ©2024 por Marcelo Caballero para PlayTheGame. Creada con React + Vite Contacto: <a href="mailto:mcaballero879@gmail.com">Enviar correo</a></p></footer>
         </div>
     )
 
